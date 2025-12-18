@@ -1,0 +1,23 @@
+:root{
+
+    /* window variables */
+    --window-gradient: linear-gradient(#f5f5f7, lightgrey);
+    --window-border: 1px solid #b9b9b9;
+    --close-border: 1px solid #e25c5c;
+    --close-bg: #FB5F57;
+    --min-border: 1px solid #daa438;
+    --min-bg: #f7ba2b;
+    --full-border: 1px solid #48B252;
+    --full-bg: #42C94D;
+
+    /* text variables */
+    --text-color: #1d1d1f;
+        /* fonts */
+    --ari-condensed: "ari condensed", system-ui, sans-serif;
+    --ari-condensed-bold: "ari condensed bold", system-ui, sans-serif;
+    --ari-bold: "ari bold", system-ui, sans-serif;
+    --ari-condensed-display: "ari condensed display", system-ui, sans-serif;
+    --ari-display: "ari display", system-ui, sans-serif;
+    --ari: "ari", system-ui, sans-serif;
+
+}

@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "ari condensed";
+    src: url(/fonts/ari-w9500-condensed.ttf) format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ari condensed bold";
+    src: url(/fonts/ari-w9500-condensed-bold.ttf) format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ari bold";
+    src: url(/fonts/ari-w9500-bold.ttf) format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ari condensed display";
+    src: url(/fonts/ari-w9500-condensed-display.ttf) format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ari display";
+    src: url(/fonts/ari-w9500-display.ttf) format("truetype");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ari";
+    src: url(/fonts/ari-w9500.ttf) format("truetype");
+    font-display: swap;
+}
